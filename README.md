@@ -22,8 +22,7 @@ Web application aims to provide an efficient taxi management service.
 - Build the project using Maven: mvn clean install;
 - Deploy the WAR file to a servlet container such as Tomcat or other;
 - After deploying the project, you can use the web application using the link http://localhost:8080/ in your browser
-- The project was deployed to get acquainted with the functionality on AWS elastic beanstalk
-  http://taxi-env.eba-4mp66kps.eu-west-3.elasticbeanstalk.com/
+- The project was deployed to get acquainted with the functionality on AWS <br/> elastic beanstalk http://taxi-env.eba-4mp66kps.eu-west-3.elasticbeanstalk.com/
 
 ## Features
 - Registration of drivers;
